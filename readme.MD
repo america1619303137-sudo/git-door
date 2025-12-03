@@ -11,3 +11,6 @@
 ## pvc-doors
 * pvc sheet
 * its body frame
+## pvc-doors
+* taken a pvc of different grade
+* added a same material frame as previous one 
