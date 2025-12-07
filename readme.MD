@@ -17,3 +17,4 @@
 * add potato stuffing to it
 * use refined oil to fry it
 * use different varieties of stuffing
+* green chutney
