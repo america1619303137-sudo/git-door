@@ -20,3 +20,5 @@
 * use different varieties of stuffing
 * green chutney
 
+# started onion pakodi
+* chop oninons into cubes
